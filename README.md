@@ -19,6 +19,7 @@ Se realizó un modelo de machine learning para realizar una predicción sobre si
     <li><strong>numpy</strong>: Librería de Python especializada en el cálculo numérico y el análisis de datos, especialmente para un gran volumen de datos.</li>
     <li><strong>re</strong>: Este módulo proporciona operaciones de coincidencia de expresiones regulares similares a las encontradas en Perl.</li>
     <li><strong>folium</strong>: Es una librería de Python que se usa para visualizar mapas</li>
+    <li><strong>geopy</strong>: geopy facilita que los desarrolladores de Python ubiquen las coordenadas de direcciones, ciudades, países y puntos de referencia en todo el mundo utilizando geocodificadores de terceros y otras fuentes de datos.</li>
     <li><strong>matplotlib</strong>: Es una librería de Python especializada en la creación de gráficos en dos dimensiones.</li>
     <li><strong>seaborn</strong>: Es una librería de visualización de datos.</li>
     <li><strong>tqdm</strong>: Es un pequeño módulo que permite crear una barra de progreso basada en texto, que es desplegada en pantalla a partir de un bucle</li>
