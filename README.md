@@ -40,6 +40,7 @@ Usted ha sido contactado de una importante empresa inversora dentro del rubro de
   <li><strong>Limpieza, análisis exploratorio y transformación de los DataFrames.</strong></li>
   <li><strong>Codificación de variables categóricas.</strong></li>
   <li><strong>Extracción de las variables numéricas.</strong></li>
+  <li><strong>Vector objetivo.</strong></li>
   <li><strong>Escalado de datos para no tener sesgos hacia una variable debido a su tamaño con respecto a otra.</strong></li>
   <li><strong>Crear un set de entrenamiento y de prueba.</strong></li>
   <li><strong>Creación y evaluación de las métricas del modelo de Regresión Logística.</strong></li>
@@ -50,18 +51,35 @@ Usted ha sido contactado de una importante empresa inversora dentro del rubro de
     <strong>Creación del archivo pickle del mejor modelo.</strong>
     <a href="https://drive.google.com/file/d/1QmHq0jMa6uE2QTxXqY3wp9CLVUQZ6nFQ/view?usp=share_link">(descargar archivo pickle)</a>
   </li>
+  <li><strong>Diseño de la aplicación web usando streamlit.</strong></li>
 </ul>
 
-## _Notebook de la solución del proyecto:_
-El proceso detallado de lo realizado en cada paso se describe en el Jupyter Notebook que se muestran a continuación:
+## _Proceso detallado de la solución del proyecto:_
+El proceso detallado desde la carga del dataset hasta la puesta en producción del modelo de Machine Learning se describen a continuación:
 
 <h3>
-  <i>Jupyter Notebook con el procedimiento detallado</i>
   <h4>
     <ul>
       <li>
-        <strong>Proyecto mercado inmobiliario</strong>
+        <strong>Extracción, transformación, limpieza y creación del archivo pickel del modelo de machine learning: </strong>
         <a href="https://github.com/JozCrzBrgn/Mercado_inmobiliario_Machine_Learning/blob/main/Mercado_Inmobiliario.ipynb">Jupyter Notebook</a>
+      </li>
+      <li>
+        <strong>Diseño de la aplicación web: </strong>
+        <a href="">Archivo *.py</a>
+      </li>
+    </ul>
+   <h4>
+</h3>
+    
+## _Aplicación web:_
+
+<h3>
+  <h4>
+    <ul>
+      <li>
+        <strong>Mercado Inmobiliario</strong>
+        <a href="">App Web</a>
       </li>
     </ul>
    <h4>
