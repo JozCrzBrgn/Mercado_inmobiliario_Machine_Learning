@@ -27,6 +27,7 @@ Se realizó un modelo de machine learning para realizar una predicción sobre si
     <li><strong>tensorflow</strong>: Es una biblioteca de código abierto para aprendizaje automático a través de un rango de tareas, y desarrollado por Google para satisfacer sus necesidades de sistemas capaces de construir y entrenar redes neuronales para detectar y descifrar patrones y correlaciones, análogos al aprendizaje y razonamiento usados por los humanos.</li>
     <li><strong>pickle</strong>: Librería mediante la cual una jerarquía de objetos de Python se convierte en una secuencia de bytes.</li>
     <li><strong>streamlit</strong>: Es una librería que, de forma sencilla, te permite crear todo tipo de aplicaciones de datos desarrolladas en Python</li>
+</ul>
 
 ## _Objetivo del proyecto:_
 Usted ha sido contactado de una importante empresa inversora dentro del rubro de la inmobiliaria en Colombia, con el fin de que implemente un modelo de clasificación que permita clasificar el precio de las propiedades en venta, utilizando los datos que se han puesto a su disposición correspondientes al año 2020. Para esto, específicamente, debe predecir la categorización de las propiedades entre baratas o caras, considerando como criterio el valor promedio de los precios.
