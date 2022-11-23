@@ -66,10 +66,6 @@ El proceso detallado desde la carga del dataset hasta la puesta en producción d
         <strong>Extracción, transformación, limpieza y creación del archivo pickel del modelo de machine learning: </strong>
         <a href="https://github.com/JozCrzBrgn/Mercado_inmobiliario_Machine_Learning/blob/main/Mercado_Inmobiliario.ipynb">Jupyter Notebook</a>
       </li>
-      <li>
-        <strong>Diseño de la aplicación web: </strong>
-        <a href="">Archivo *.py</a>
-      </li>
     </ul>
    <h4>
 </h3>
