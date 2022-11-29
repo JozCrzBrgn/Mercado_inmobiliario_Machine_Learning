@@ -34,7 +34,10 @@ Usted ha sido contactado de una importante empresa inversora dentro del rubro de
 
 ## _Resumen de la solución del proyecto:_
 <ul>
-  <li><strong>Cargar el dataset y transformalo en DataFrames.</strong></li>
+  <li>
+    <strong>Cargar el dataset y transformalo en DataFrames.</strong>
+    <a href="https://drive.google.com/file/d/1AQG7XUFqT6D6WM_WK--j1IcZkPF3LOLZ/view?usp=sharing">(descargar dataset)</a>
+  </li>
   <li><strong>Limpieza, análisis exploratorio y transformación de los DataFrames.</strong></li>
   <li><strong>Codificación de variables categóricas.</strong></li>
   <li><strong>Extracción de las variables numéricas.</strong></li>
@@ -47,7 +50,7 @@ Usted ha sido contactado de una importante empresa inversora dentro del rubro de
   <li><strong>Comparación de los 3 modelos.</strong></li>
   <li>
     <strong>Creación del archivo del mejor modelo.</strong>
-    <a href="">(descargar archivo)</a>
+    <a href="https://drive.google.com/file/d/1XXkZ2BpaxXJcdrdr_Zw04BL5HeP_LYEi/view?usp=sharing">(descargar modelo)</a>
   </li>
   <li><strong>Diseño de la aplicación web usando streamlit.</strong></li>
 </ul>
