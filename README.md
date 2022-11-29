@@ -25,7 +25,7 @@ Se realizó un modelo de machine learning para realizar una predicción sobre si
     <li><strong>tqdm</strong>: Es un pequeño módulo que permite crear una barra de progreso basada en texto, que es desplegada en pantalla a partir de un bucle</li>
     <li><strong>scikit-learn</strong>: También llamada sklearn, es un conjunto de rutinas escritas en Python para hacer análisis predictivo, que incluyen clasificadores, algoritmos de clusterización, etc. Está basada en NumPy, SciPy y matplotlib.</li>
     <li><strong>tensorflow</strong>: Es una biblioteca de código abierto para aprendizaje automático a través de un rango de tareas, y desarrollado por Google para satisfacer sus necesidades de sistemas capaces de construir y entrenar redes neuronales para detectar y descifrar patrones y correlaciones, análogos al aprendizaje y razonamiento usados por los humanos.</li>
-    <li><strong>pickle</strong>: Librería mediante la cual una jerarquía de objetos de Python se convierte en una secuencia de bytes.</li>
+    <li><strong>joblib</strong>: Es un conjunto de herramientas para proporcionar un Pipeline ligero en Python.</li>
     <li><strong>streamlit</strong>: Es una librería que, de forma sencilla, te permite crear todo tipo de aplicaciones de datos desarrolladas en Python</li>
 </ul>
 
@@ -34,11 +34,7 @@ Usted ha sido contactado de una importante empresa inversora dentro del rubro de
 
 ## _Resumen de la solución del proyecto:_
 <ul>
-  <li>
-      <strong>Cargar los diferentes datasets y transformalos en DataFrames.</strong>
-      <a href="https://drive.google.com/file/d/15YZXbqeFw8F8C5uyDAF4waN_k2SIcRBo/view?usp=sharing">(dataset train)</a>
-      <a href="https://drive.google.com/file/d/1GcE1NFudXq4sWbKIzm-yV1Uni7ikuvf7/view?usp=share_link">(dataset test)</a>
-  </li>
+  <li><strong>Cargar el dataset y transformalo en DataFrames.</strong></li>
   <li><strong>Limpieza, análisis exploratorio y transformación de los DataFrames.</strong></li>
   <li><strong>Codificación de variables categóricas.</strong></li>
   <li><strong>Extracción de las variables numéricas.</strong></li>
@@ -50,8 +46,8 @@ Usted ha sido contactado de una importante empresa inversora dentro del rubro de
   <li><strong>Creación y evaluación de las métricas del modelo de Redes Neuronales Artificiales.</strong></li>
   <li><strong>Comparación de los 3 modelos.</strong></li>
   <li>
-    <strong>Creación del archivo pickle del mejor modelo.</strong>
-    <a href="https://drive.google.com/file/d/1QmHq0jMa6uE2QTxXqY3wp9CLVUQZ6nFQ/view?usp=share_link">(descargar archivo pickle)</a>
+    <strong>Creación del archivo del mejor modelo.</strong>
+    <a href="">(descargar archivo)</a>
   </li>
   <li><strong>Diseño de la aplicación web usando streamlit.</strong></li>
 </ul>
@@ -63,7 +59,7 @@ El proceso detallado desde la carga del dataset hasta la puesta en producción d
   <h4>
     <ul>
       <li>
-        <strong>Extracción, transformación, limpieza y creación del archivo pickel del modelo de machine learning: </strong>
+        <strong>Extracción, transformación, limpieza y creación del archivo del modelo de machine learning: </strong>
         <a href="https://github.com/JozCrzBrgn/Mercado_inmobiliario_Machine_Learning/blob/main/Mercado_Inmobiliario.ipynb">Jupyter Notebook</a>
       </li>
     </ul>
@@ -77,7 +73,7 @@ El proceso detallado desde la carga del dataset hasta la puesta en producción d
     <ul>
       <li>
         <strong>Mercado Inmobiliario</strong>
-        <a href="https://huggingface.co/spaces/JozCrzBrgn/demo-app">App Web</a>
+        <a href="https://huggingface.co/spaces/JozCrzBrgn/demo-app">Demo de la App-Web</a>
       </li>
     </ul>
    <h4>
