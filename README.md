@@ -76,7 +76,7 @@ El proceso detallado desde la carga del dataset hasta la puesta en producción d
     <ul>
       <li>
         <strong>Mercado Inmobiliario</strong>
-        <a href="https://huggingface.co/spaces/JozCrzBrgn/demo-app">Demo de la App-Web</a>
+        <a href="https://huggingface.co/spaces/JozCrzBrgn/Mercado_Inmobiliario">Demo de la App-Web</a>
       </li>
     </ul>
    <h4>
