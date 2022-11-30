@@ -81,4 +81,4 @@ El proceso detallado desde la carga del dataset hasta la puesta en producción d
     </ul>
    <h4>
 </h3>
-<img src="https://github.com/JozCrzBrgn/Mercado_inmobiliario_Machine_Learning/tree/main/_img">
+<img src="https://github.com/JozCrzBrgn/Mercado_inmobiliario_Machine_Learning/tree/main/_img/web.png">
